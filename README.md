@@ -14,3 +14,5 @@ serial_transfer.py
 serial_transfer_buff.py  
 ２ポート間のデータをタイムアウト期間までバッファリングしてから転送する。通信履歴をテキストファイルに保存する。  
   
+serial_transfer_complete.py
+２ポート間のデータをタイムアウト期間までバッファリングしてから転送する。実際の環境に最適化した別バージョン。
